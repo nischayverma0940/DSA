@@ -1,5 +1,5 @@
 //Array implementation of stacks
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 #define MAX_SIZE 101
 int A[MAX_SIZE];
@@ -31,7 +31,7 @@ int main(){
     pop();
     push(12);
     print();
-}*/
+}
 
 //Linked list implementation of stacks
 #include<iostream>
